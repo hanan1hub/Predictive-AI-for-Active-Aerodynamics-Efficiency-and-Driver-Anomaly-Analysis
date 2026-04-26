@@ -529,3 +529,4 @@ if predict_btn or True:   # show live (updates on every slider change)
             df_display['Raw Value']    = df_display['Raw Value'].round(4)
             df_display['Scaled Value'] = df_display['Scaled Value'].round(4)
             st.dataframe(df_display, use_container_width=True, hide_index=True)
+            
