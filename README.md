@@ -1,15 +1,6 @@
 # 🏎️ Aero Intelligence
 ### Predictive Machine Learning for Active Aerodynamics Efficiency and Driver Anomaly Analysis in Formula 1
 
-> **CS-245 Machine Learning — Final Project Report**
-> National University of Sciences & Technology (NUST)
-
-| Member | CMS ID |
-|---|---|
-| Hanan Majeed | 519166 |
-| Anas Norani | 501231 |
-| Maha Mohsin | 504285 |
-
 ---
 
 ## 📋 Table of Contents
